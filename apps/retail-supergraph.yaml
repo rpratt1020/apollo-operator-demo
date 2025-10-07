@@ -1,4 +1,4 @@
-apiVersion: argoproj.io/v1alpha1
+apiVersion: 2.7.0
 kind: Application
 metadata:
   name: retail-supergraph
